@@ -18,7 +18,7 @@ This tool is intended for educational and legal penetration testing only. **Do n
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/yourusername/brute-force-gui-tool.git
+git clone https://github.com/Sarthak-Saini07/brute-force-gui-tool.git
 cd brute-force-gui-tool
 pip install -r requirements.txt
 python app.py
